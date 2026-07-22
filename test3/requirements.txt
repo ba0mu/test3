@@ -1,0 +1,11 @@
+thriftpy2==0.5.2
+bytedeuler==2.7.3
+bytedivory==0.0.11.post9
+bytedance.context==0.6.3
+bytedance.context
+bytedance.vcloud==2.0.15
+bytedance.ivory==1.1.3.post4
+pillow
+byted_cairo==2.5.2
+bytedance==0.1.2
+opencv-python
