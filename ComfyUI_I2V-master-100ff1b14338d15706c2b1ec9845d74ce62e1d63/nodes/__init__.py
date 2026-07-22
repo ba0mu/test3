@@ -1,0 +1,7 @@
+from .I2V import I2V
+NODE_CLASS_MAPPINGS = {
+    "I2V": I2V
+}
+NODE_DISPLAY_NAME_MAPPINGS = {
+    "I2V": "I2V"
+}
